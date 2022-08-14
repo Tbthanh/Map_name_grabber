@@ -1,4 +1,3 @@
-dir /b
 1 Kenji Ninuma - DISCOPRINCE.osz
 100 Blur - Song 2.osz
 101 Chata - Dango Daikazoku.osz

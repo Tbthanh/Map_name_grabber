@@ -1,0 +1,1 @@
+dir /b > D:\TAI_LIEU\Programing\Thuc_hanh_C\osu_map\Map_name_grabber\from2008.txt
